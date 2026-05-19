@@ -2,5 +2,4 @@ Hello Piyush Sir
 Done
 Hello Gurpreet Sir
 New Branch Data Added
-Data Added from Branch Main
-Data Added From Branch A
+Branch B Data Added
